@@ -2,6 +2,7 @@
 
 <h4 align="justify">
 O projeto consiste na implementaão de uma rede social realmente funcional. Uma rede real, com cadastro, login, posts, likes e comentários. Para isso, nos baseamos no reddit.com. 
+Com o pensamento de mobile first, foi solicitado que o projeto fosse realizado para iphones 13 Pro-Max (w428px x h926px), conforme wireframe desenvolvido no figma (<span href="https://www.figma.com/proto/SkAg8B7e581GVLaOssvpoe/Prot%C3%B3tipo-Labeddit?page-id=0%3A1&node-id=1%3A4&viewport=259%2C48%2C0.1&scaling=scale-down&starting-point-node-id=36%3A388">Figma<spam>).
 <h4/>
 
 <h3 align="center"> Sumário  </h3>
